@@ -1,0 +1,50 @@
+html, body{
+
+    margin:0px;
+    padding:0px;
+    border:0;
+    
+
+}
+
+
+body{
+
+    background-image: url(fundo-sobre.jpg);
+    
+
+}
+
+#header{
+
+    color: rgba(255, 255, 255, 0.911);
+    
+}
+
+h1{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+a{
+
+    color:rgba(255, 255, 255, 0.911);
+    text-decoration: none;
+}
+
+#header, #Objetivo, #formação, #habilidades{
+
+    padding: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
